@@ -46,7 +46,7 @@ npm install
 npm run dev                   # http://localhost:3000
 ```
 
-Open http://localhost:3000, click **Continue as Guest**, and you're in.
+Open ablespace-gamma.vercel.app, click **Continue as Guest**, and you're in.
 
 ## Key Features
 
